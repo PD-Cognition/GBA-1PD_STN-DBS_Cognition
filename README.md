@@ -1,2 +1,11 @@
 # GBA-1PD_STN-DBS_Cognition
-No relevant cognitive sequelae one year after STN-DBS in patients with GBA1-PD - subanalysis of a prospective cohort study
+This dataset contains the de-identified research data underlying the publication "No relevant cognitive sequelae one year after STN-DBS in patients with GBA1-PD – subanalysis of a prospective cohort study." The data originate from a prospective, single-center observational cohort study (ClinicalTrials.gov identifier: NCT03982953) investigating predictors of cognitive outcome following bilateral subthalamic nucleus deep brain stimulation (STN-DBS) in patients with Parkinson's disease.
+
+
+The dataset includes anonymized demographic, clinical, neuropsychological, genetic, imaging, biomarker, perioperative, and one-year follow-up data from patients who underwent bilateral STN-DBS. Clinical variables comprise demographic characteristics, disease duration, medication, motor and non-motor assessments, quality of life measures, and activities of daily living. Cognitive assessment includes the Montreal Cognitive Assessment (MoCA) and detailed domain-specific outcomes obtained with the CANTAB Connect™ neuropsychological test battery. Additional variables include serum and cerebrospinal fluid biomarkers, structural MRI-derived basal forebrain volumes, perioperative anesthesia and surgical parameters, postoperative delirium assessments, and genetic findings obtained through the ROPAD screening protocol, including GBA1 variant status.
+
+The publication reports a propensity score-matched subanalysis comparing patients carrying heterozygous GBA1 variants with genetically negative Parkinson's disease controls matched for baseline age, cognitive performance, and disease severity. The deposited dataset contains the variables required to reproduce the reported descriptive statistics and statistical analyses.
+
+To protect participant privacy, all direct identifiers have been removed or pseudonymized. Variables with an increased risk of participant re-identification have been generalized where necessary. Individual genetic variants are retained in anonymized form because they are essential for reproducing the analyses.
+
+The dataset is intended to enable verification of the published findings, secondary analyses, and meta-analyses on cognitive outcomes after STN-DBS in Parkinson's disease. Reuse should acknowledge the original publication and comply with applicable ethical and data protection regulations.
